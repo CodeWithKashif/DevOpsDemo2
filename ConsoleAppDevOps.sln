@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppDevOps.Domain", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppDevOps.Repository", "ConsoleAppDevOps.Repository\ConsoleAppDevOps.Repository.csproj", "{2AFEE646-ACA4-4A5E-8328-FC1E75E5F7E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppDevOps.UnitTest", "ConsoleAppDevOps.UnitTest\ConsoleAppDevOps.UnitTest.csproj", "{681D0869-1F09-43A1-9193-CA90840CDE9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2AFEE646-ACA4-4A5E-8328-FC1E75E5F7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AFEE646-ACA4-4A5E-8328-FC1E75E5F7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AFEE646-ACA4-4A5E-8328-FC1E75E5F7E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{681D0869-1F09-43A1-9193-CA90840CDE9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681D0869-1F09-43A1-9193-CA90840CDE9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681D0869-1F09-43A1-9193-CA90840CDE9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681D0869-1F09-43A1-9193-CA90840CDE9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
