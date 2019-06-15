@@ -7,6 +7,9 @@ using ConsoleAppDevOps.Repository;
 
 namespace ConsoleAppDevOps.Domain
 {
+    /// <summary>
+    /// Here is the comment goess
+    /// </summary>
     public class CustomerService
     {
         public string GetCustomerName()
