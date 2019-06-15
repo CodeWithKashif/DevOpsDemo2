@@ -1,0 +1,8 @@
+E:\DEVELOPMENT\Git\findkashif\ConsoleDemo\ConsoleScheduleDemo\ConsoleScheduleDemo.Repository\bin\Release\netstandard2.0\ConsoleScheduleDemo.Repository.deps.json
+E:\DEVELOPMENT\Git\findkashif\ConsoleDemo\ConsoleScheduleDemo\ConsoleScheduleDemo.Repository\bin\Release\netstandard2.0\ConsoleScheduleDemo.Repository.dll
+E:\DEVELOPMENT\Git\findkashif\ConsoleDemo\ConsoleScheduleDemo\ConsoleScheduleDemo.Repository\bin\Release\netstandard2.0\ConsoleScheduleDemo.Repository.pdb
+E:\DEVELOPMENT\Git\findkashif\ConsoleDemo\ConsoleScheduleDemo\ConsoleScheduleDemo.Repository\obj\Release\netstandard2.0\ConsoleScheduleDemo.Repository.csproj.CoreCompileInputs.cache
+E:\DEVELOPMENT\Git\findkashif\ConsoleDemo\ConsoleScheduleDemo\ConsoleScheduleDemo.Repository\obj\Release\netstandard2.0\ConsoleScheduleDemo.Repository.AssemblyInfoInputs.cache
+E:\DEVELOPMENT\Git\findkashif\ConsoleDemo\ConsoleScheduleDemo\ConsoleScheduleDemo.Repository\obj\Release\netstandard2.0\ConsoleScheduleDemo.Repository.AssemblyInfo.cs
+E:\DEVELOPMENT\Git\findkashif\ConsoleDemo\ConsoleScheduleDemo\ConsoleScheduleDemo.Repository\obj\Release\netstandard2.0\ConsoleScheduleDemo.Repository.dll
+E:\DEVELOPMENT\Git\findkashif\ConsoleDemo\ConsoleScheduleDemo\ConsoleScheduleDemo.Repository\obj\Release\netstandard2.0\ConsoleScheduleDemo.Repository.pdb

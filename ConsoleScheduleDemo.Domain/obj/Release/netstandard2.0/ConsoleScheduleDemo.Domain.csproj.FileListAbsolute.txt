@@ -1,0 +1,12 @@
+E:\DEVELOPMENT\Git\findkashif\ConsoleDemo\ConsoleScheduleDemo\ConsoleScheduleDemo.Domain\bin\Release\netstandard2.0\ConsoleScheduleDemo.Domain.deps.json
+E:\DEVELOPMENT\Git\findkashif\ConsoleDemo\ConsoleScheduleDemo\ConsoleScheduleDemo.Domain\bin\Release\netstandard2.0\ConsoleScheduleDemo.Domain.dll
+E:\DEVELOPMENT\Git\findkashif\ConsoleDemo\ConsoleScheduleDemo\ConsoleScheduleDemo.Domain\bin\Release\netstandard2.0\ConsoleScheduleDemo.Domain.pdb
+E:\DEVELOPMENT\Git\findkashif\ConsoleDemo\ConsoleScheduleDemo\ConsoleScheduleDemo.Domain\obj\Release\netstandard2.0\ConsoleScheduleDemo.Domain.csprojAssemblyReference.cache
+E:\DEVELOPMENT\Git\findkashif\ConsoleDemo\ConsoleScheduleDemo\ConsoleScheduleDemo.Domain\obj\Release\netstandard2.0\ConsoleScheduleDemo.Domain.csproj.CoreCompileInputs.cache
+E:\DEVELOPMENT\Git\findkashif\ConsoleDemo\ConsoleScheduleDemo\ConsoleScheduleDemo.Domain\obj\Release\netstandard2.0\ConsoleScheduleDemo.Domain.AssemblyInfoInputs.cache
+E:\DEVELOPMENT\Git\findkashif\ConsoleDemo\ConsoleScheduleDemo\ConsoleScheduleDemo.Domain\obj\Release\netstandard2.0\ConsoleScheduleDemo.Domain.AssemblyInfo.cs
+E:\DEVELOPMENT\Git\findkashif\ConsoleDemo\ConsoleScheduleDemo\ConsoleScheduleDemo.Domain\obj\Release\netstandard2.0\ConsoleScheduleDemo.Domain.dll
+E:\DEVELOPMENT\Git\findkashif\ConsoleDemo\ConsoleScheduleDemo\ConsoleScheduleDemo.Domain\obj\Release\netstandard2.0\ConsoleScheduleDemo.Domain.pdb
+E:\DEVELOPMENT\Git\findkashif\ConsoleDemo\ConsoleScheduleDemo\ConsoleScheduleDemo.Domain\bin\Release\netstandard2.0\ConsoleScheduleDemo.Repository.dll
+E:\DEVELOPMENT\Git\findkashif\ConsoleDemo\ConsoleScheduleDemo\ConsoleScheduleDemo.Domain\bin\Release\netstandard2.0\ConsoleScheduleDemo.Repository.pdb
+E:\DEVELOPMENT\Git\findkashif\ConsoleDemo\ConsoleScheduleDemo\ConsoleScheduleDemo.Domain\obj\Release\netstandard2.0\ConsoleScheduleDemo.Domain.csproj.CopyComplete
