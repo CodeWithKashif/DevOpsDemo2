@@ -20,5 +20,12 @@ namespace ConsoleAppDevOps.UnitTest
             var customerService = new CustomerService();
             Assert.That(customerService.GetCustomerNameFromRepo().Contains("This is from repository"));
         }
+
+        [Test]
+        public void CallGetCustomerName_ShouldReturnByRepository1()
+        {
+            var customerService = new CustomerService();
+            Assert.That(customerService.GetCustomerNameFromRepo().Contains("This is from repository"));
+        }
     }
 }
